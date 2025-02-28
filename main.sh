@@ -1,0 +1,2 @@
+Netologymain  
+main.sh
